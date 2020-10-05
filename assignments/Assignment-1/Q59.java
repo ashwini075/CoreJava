@@ -23,7 +23,6 @@ class Voter{
 		
 	}
 	
-
 	@Override
 	public String toString() {
 		return "voterId=" + voterId + " name=" + name + ", age=" + age ;

@@ -31,7 +31,7 @@ class Student12 implements StudentFee{
 			e.printStackTrace();
 		}
 		
-		
+
 	}
 	
 	public void show(){

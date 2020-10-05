@@ -17,6 +17,7 @@ class NewThread extends Thread{
 	int n = sc.nextInt();
 	@Override
 	public void run() {
+		
 		for(int i=0;i<n;i++) {
 			try {
 			t1.sleep(1000);

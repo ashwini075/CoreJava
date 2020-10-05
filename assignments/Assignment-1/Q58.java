@@ -40,7 +40,9 @@ class Q58{
 			System.out.println(day);
 				
 		}catch(ArithmeticException  e){
-		System.out.println("enter valid number");	
+
+		System.out.println("enter valid number");
+			
 		}finally{
 		System.out.println("finished");
 	}
